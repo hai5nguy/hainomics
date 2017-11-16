@@ -1,0 +1,28 @@
+{
+  "name": "Vibenomics",
+  "version": "1.0.0",
+  "description": "blah",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react": "^6.24.1",
+    "babel-webpack": "^1.0.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "webpack": "^3.8.1"
+  },
+  "repository": {
+    "git": "blah"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
